@@ -73,3 +73,9 @@
 .icon-stumbleupon:before {
   content: "\f1a4";
 }
+.icon-cloud-download:before {
+  content: "\f0ed";
+}
+.icon-cloud-upload:before {
+  content: "\f0ee";
+}
